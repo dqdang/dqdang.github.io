@@ -23,8 +23,6 @@ Second off, I never realized the importance of not jumping into code before thin
 Take a look at the project if you want:
 [xv6][xv6]
 
----
-
 Talk to me.
 
 [messenger][facebook]
