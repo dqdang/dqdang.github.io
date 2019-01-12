@@ -1,0 +1,24 @@
+---
+layout: post
+title: Dropbot
+category: posts
+---
+
+A subscription-based Facebook messenger bot hosted on Heroku featuring a database of products populated by a web monitor. Key design differences from other messenger bots include efficient database queries, asynchronous background services, and a responsive chat-based user interface.
+
+[dropbot][dropbot]
+
+---
+
+Talk to me.
+
+[messenger][facebook]
+
+[github][dqd]
+
+[reddit][reddit]
+
+[facebook]: m.me/dqdang1
+[dqd]: http://dqdang.github.io
+[reddit]: https://www.reddit.com/user/outsidefarmland/
+[dropbot]: https://github.com/tmbernardo/dropbot

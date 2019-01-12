@@ -1,0 +1,9 @@
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Derek Dang
+url: https://dqdang.github.io
+description: Another crazy blog.

@@ -1,0 +1,27 @@
+---
+layout: layout
+---
+
+<section class="content">
+  <h1>
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </h1>
+
+  <section class="byline">
+    {{ page.date | date: "%B %e, %Y" }}
+  </section>
+
+  {{ content }}
+
+  <!-- TODO: bio here -->
+  <section class="meta">
+    <h3>Hey, it's me</h3>
+    <section class="copy">
+        <img src="{{ site.github.owner_gravatar_url }}?s=142" height="50" width="50" />
+      </a>
+      <p>
+        I'm a software engineer at LitePoint. This is something I do in my free time besides browsing reddit and drinking tea.
+      </p>
+    </section>
+  </section>
+</section>
