@@ -4,7 +4,7 @@ layout: layout
 
 <section class="content">
   <ul class="listing">
-    {% for post in site.projects %}
+    {% for project in site.projects %}
       {% unless project.draft %}
       <li>
         <span>{{ project.date | date: "%B %e, %Y" }}</span> <a href="{{ project.url }}">{{ project.title }}</a>
