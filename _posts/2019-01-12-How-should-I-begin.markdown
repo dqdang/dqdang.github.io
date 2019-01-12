@@ -18,6 +18,6 @@ Talk to me.
 [reddit][reddit]
 
 [facebook]: https://www.m.me/dqdang1
-[dqd]: http://dqdang.github.io
+[dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
 [dropbot]: https://github.com/tmbernardo/dropbot
