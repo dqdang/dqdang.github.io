@@ -4,8 +4,13 @@ title: dropbot
 category: posts
 ---
 
-A subscription-based Facebook messenger bot hosted on Heroku featuring a database of products populated by a web monitor. Key design differences from other messenger bots include efficient database queries, asynchronous background services, and a responsive chat-based user interface.
+*A subscription-based Facebook messenger bot hosted on Heroku featuring a database of products populated by a web monitor. Key design differences from other messenger bots include efficient database queries, asynchronous background services, and a responsive chat-based user interface.*
 
+I co-created this project in a mix of panic, excitement, and the slow creeping feeling of unemployment. My friend and I decided to start this bad boy when we saw the techwear company [acronym](https://acrnm.com/) raising prices to 200% of their initial offerings. This project's design is probably one of my prouder ones. The modular architecture and verbose python allowed easy implementations of complex features like links and admin capabilities. The project is hosted on Heroku. It runs through continuous integration and a development app before fully deploying changes.
+
+The messenger API would time out more often than we thought. Persistent menus also weren't fully working most of the time during development because the refresh rate for them caused a bit of trouble. Heroku servers (dynos) also shut down without constant access from users, putting strain on investing fifteen bucks a month to run the app. 
+
+Take a look at the project if you want:
 [dropbot][dropbot]
 
 ---
