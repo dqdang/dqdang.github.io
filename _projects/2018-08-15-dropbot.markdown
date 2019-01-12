@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dropbot
-category: posts
+title: dropbot
+category: projects
 ---
 
 A subscription-based Facebook messenger bot hosted on Heroku featuring a database of products populated by a web monitor. Key design differences from other messenger bots include efficient database queries, asynchronous background services, and a responsive chat-based user interface.
