@@ -17,7 +17,7 @@ Talk to me.
 
 [reddit][reddit]
 
-[facebook]: m.me/dqdang1
+[facebook]: https://www.m.me/dqdang1
 [dqd]: http://dqdang.github.io
 [reddit]: https://www.reddit.com/user/outsidefarmland/
 [rpicluster]: https://github.com/rpicluster/rpicluster-stretch
