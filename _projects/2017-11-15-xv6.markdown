@@ -1,7 +1,7 @@
 ---
 layout: post
 title: xv6 container system
-category: posts
+category: projects
 ---
 A container system for the MIT’s OS xv6. Using file, process, and resource isolation, the tool allows
 users to create containers running on virtual consoles.
