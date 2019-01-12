@@ -1,0 +1,24 @@
+---
+layout: post
+title: xv6 container system
+category: posts
+---
+A container system for the MIT’s OS xv6. Using file, process, and resource isolation, the tool allows
+users to create containers running on virtual consoles.
+
+[xv6][xv6]
+
+---
+
+Talk to me.
+
+[messenger][facebook]
+
+[github][dqd]
+
+[reddit][reddit]
+
+[facebook]: https://www.m.me/dqdang1
+[dqd]: http://dqdang.github.io
+[reddit]: https://www.reddit.com/user/outsidefarmland/
+[xv6]: https://github.com/dqdang/xv6-Container-System
