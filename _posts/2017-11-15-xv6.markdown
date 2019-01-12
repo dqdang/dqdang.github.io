@@ -6,7 +6,7 @@ category: posts
 *A container system for the MIT’s OS xv6. Using file, process, and resource isolation, the tool allows
 users to create containers running on virtual consoles.*
 
-First thing's first, this project had a ton of interesting commits, ranging from "**** this project" to "Update". It's quite nostalgic actually. I wonder if the mess of commits ever threw people off... because it definitely did for us.
+First thing's first, this project had a ton of interesting commits, ranging from "fuck this project" to "Update" multiple times in a row... It's quite nostalgic actually. I wonder if the mess of commits ever threw people off... because it definitely did for us.
 
 Aside from the descriptive messages, this was one of my first projects reading a large code base and adding a core functionality. Here are some of my thoughts on the project:
 
