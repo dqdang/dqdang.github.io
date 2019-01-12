@@ -25,4 +25,16 @@ layout: null
    {% endunless %}
  {% endfor %}
  
+ {% for project in site.projects %}
+   {% unless project.draft %}
+   <entry>
+     <title>{{ project.title }}</title>
+     <link href="{{ site.url }}{{ project.url }}"/>
+     <updated>{{ project.date | date_to_xmlschema }}</updated>
+     <id>{{ site.url }}{{ project.id }}</id>
+     <content type="html">{{ project.content | xml_escape }}</content>
+   </entry>
+   {% endunless %}
+ {% endfor %}
+ 
 </feed>
