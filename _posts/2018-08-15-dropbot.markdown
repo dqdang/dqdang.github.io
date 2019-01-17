@@ -6,11 +6,11 @@ category: posts
 
 *A subscription-based Facebook messenger bot hosted on Heroku featuring a database of products populated by a web monitor. Key design differences from other messenger bots include efficient database queries, asynchronous background services, and a responsive chat-based user interface.*
 
-I co-created this project in a mix of panic, excitement, and the slow creeping feeling of unemployment. I spent a couple months on this. Functionality was finished within a week and a half. My friend and I decided to start this bad boy when we saw the techwear company [acronym](https://acrnm.com/) raising prices to 200% of their initial offerings. This project's design is probably one of my prouder ones. The modular architecture and verbose python allowed easy implementations of complex features like links and admin capabilities. The project is hosted on Heroku. It runs through continuous integration and a development app before fully deploying changes and creating a release.
+I co-created this project in a mix of panic, excitement, and the slow creeping feeling of unemployment. I spent a couple months doing Leetcode questions with my friend on Google Hangouts while working as a test technician during the day and wanted something to show for all the practice I was doing. Functionality was finished within a week and a half, but integration and actual deployment didn't happen until two months later. My friend and I decided to start this bad boy when we saw techwear company [acronym](https://acrnm.com/) raising prices to 200% of their initial offerings. The project is hosted on [Heroku](https://www.heroku.com/); it runs through continuous integration and a development app before fully deploying changes and creating a release. 
 
-I learned a lot of new tech through this app, and all of them are relevant in Python API design, which is pretty valuable.  I started to wonder if I should ever list school projects on my resume. This project attracted more interviewers than the [rpicluster](/posts/rpicluster) project I worked a year and a half on :(.
 
 The messenger API would time out more often than we thought. Persistent menus also weren't fully working most of the time during development because the refresh rate for them caused a bit of trouble. Heroku servers (dynos) also shut down without constant access from users, putting strain on investing fifteen bucks a month to run the app.
+
 
 There are many future improvements we want to make, including shifting our messenger API to fbchat, a more updated version of fbmq. We were also thinking about shifting towards more of a hands on server instead of Heroku; something like DigitalOcean or Dreamhost. We'll see how it goes...
 
