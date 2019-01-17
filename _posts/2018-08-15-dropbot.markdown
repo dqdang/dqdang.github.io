@@ -12,7 +12,7 @@ I co-created this project in a mix of panic, excitement, and the slow creeping f
 The messenger API would time out more often than we thought. Persistent menus also weren't fully working most of the time during development because the refresh rate for them caused a bit of trouble. Heroku servers (dynos) also shut down without constant access from users, putting strain on investing fifteen bucks a month to run the app.
 
 
-There are many future improvements we want to make, including shifting our messenger API to fbchat, a more updated version of fbmq. We were also thinking about shifting towards more of a hands on server instead of Heroku; something like DigitalOcean or Dreamhost. We'll see how it goes...
+There are many future improvements we want to make, including shifting our messenger API to [fbchat](https://github.com/carpedm20/fbchat), a more updated version of [fbmq](https://github.com/conbus/fbmq). We were also thinking about shifting towards more of a hands on server instead of Heroku; something like DigitalOcean or Dreamhost. We'll see how it goes...
 
 Take a look at the project if you want:
 [dropbot][dropbot]
