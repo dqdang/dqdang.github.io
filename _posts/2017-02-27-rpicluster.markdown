@@ -3,7 +3,7 @@ layout: post
 title: rpicluster
 category: posts
 ---
-*This is a user-friendly implementation of [Raspberry Pi](https://www.raspberrypi.org/) Clusters. rpicluster easily integrates a real cluster of computers, removing the hassle of networking and remote procedure calls. Downloadable images come with a set of tools to aid setup, configuration, and updates. The scalable architecture allows anyone to effortlessly put together a cluster and start creating their very own distributed/parallel projects. Visit this [link](www.rpicluster.com) to download the images and for more details.*
+*This is a user-friendly implementation of [Raspberry Pi](https://www.raspberrypi.org/) Clusters. rpicluster easily integrates a real cluster of computers, removing the hassle of networking and remote procedure calls. Downloadable images come with a set of tools to aid setup, configuration, and updates. The scalable architecture allows anyone to effortlessly put together a cluster and start creating their very own distributed/parallel projects. Visit this [link](http://www.rpicluster.com) to download the images and for more details.*
 
 Instead of a valuable internship, I invested my youth into a big project for the summer. The goal was relatively simple: create a Raspberry Pi Cluster that is easily distributable. We demoed the projet multiple times at research events and garnered some attention. Eventually, we wanted to see how far it would go as a startup. What if we made a package that just did all the configuration? What if we extend this onto other IoT devices? We could've taken that risk. But we also forgot that we were unemployed with empty pockets.
 
