@@ -3,8 +3,7 @@ layout: post
 title: xv6 container system
 category: posts
 ---
-*A container system for the MIT’s OS xv6. Using file, process, and resource isolation, the tool allows
-users to create containers running on virtual consoles.*
+*A container system integrated into MIT’s OS xv6. Using file and process isolation, the tool allows users to create containers running on virtual consoles, framing environments for various applications*
 
 First thing's first, this project had a ton of interesting commits, ranging from "fuck this project" to "Update" multiple times in a row... It's quite nostalgic actually. I wonder if the mess of commits ever threw people off... because it definitely did for us.
 
