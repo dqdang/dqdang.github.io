@@ -11,7 +11,7 @@ and I came to the conclusion that I also wanted to explore such a route. Will up
 ---
 
 Take a look at the project if you want:
-[open][open]
+[open-shrine][open-shrine]
 
 Talk to me.
 
@@ -24,4 +24,4 @@ Talk to me.
 [facebook]: https://www.m.me/dqdang1
 [dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
-[open]: https://github.com/dqdang/open-shrine
+[open-shrine]: https://github.com/dqdang/open-shrine
