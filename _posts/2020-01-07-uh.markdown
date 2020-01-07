@@ -1,0 +1,21 @@
+---
+layout: post
+title: Uh
+category: posts
+---
+
+Uh... yeah I'm not very dilligent on these things. I'll be more vigilant this decade.
+
+---
+
+Talk to me.
+
+[messenger][facebook]
+
+[github][dqd]
+
+[reddit][reddit]
+
+[facebook]: https://www.m.me/dqdang1
+[dqd]: http://github.com/dqdang
+[reddit]: https://www.reddit.com/user/outsidefarmland/
