@@ -1,6 +1,6 @@
 ---
 layout: post
-title: xv6 container system
+title: xv6 docker
 category: posts
 ---
 *A container system integrated into MIT’s OS xv6. Using file and process isolation, the tool allows users to create containers running on virtual consoles, framing environments for various applications*
@@ -22,7 +22,7 @@ Looking back, this project helped me realize a lot of realities in software. Eve
 ---
 
 Take a look at the project if you want:
-[xv6][xv6]
+[xv6-docker][xv6-docker]
 
 Talk to me.
 
@@ -35,4 +35,4 @@ Talk to me.
 [facebook]: https://www.m.me/dqdang1
 [dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
-[xv6]: https://github.com/dqdang/xv6-Container-System
+[xv6-docker]: https://github.com/dqdang/xv6-docker
