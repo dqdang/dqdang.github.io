@@ -9,17 +9,17 @@ Instead of an internship, I invested my time into a big project for the summer. 
 
 The project presented some interesting questions during the development phases.
 
-**1)** How do you run python scripts to build scripts and package an image without unzipping the zip file first?
+**1) How do you run python scripts to build scripts and package an image without unzipping the zip file first?**
 
 Turns out there's a great tool created by the Raspberry Pi Foundation: [pi-gen](https://github.com/RPi-Distro/pi-gen). A fork of this repo allowed us to modify the images to create either an rpicluster server or node image file.
 
-**2)** How do you network the Pis together to create a scalable cluster? How do we discover the nodes intuitively?
+**2) How do you network the Pis together to create a scalable cluster? How do we discover the nodes intuitively?**
 
 Managing the nodes to support multiple different networking capabilities adds complexity, and turned out to be a huge headache to implement. We eventually designed the startup process to include a neutral network before allowing the user to select their desired network. A reboot was necessary to ensure the right services started and IPtables were configured correctly.
 
 Files were a little easier with a network up and running.
 
-**3)** How do I make my WiFi-based cluster unique to another network?
+**3) How do I make my WiFi-based cluster unique to another network?**
 
 We used a stamping mechanism in the images unique with their username and password of their WiFi network and passing the lengths into a build.
 
