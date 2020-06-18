@@ -17,7 +17,7 @@ Second off, I never realized the importance of not jumping into code before thin
 
 Fast forward and it gets to another road block. And another. And another... Repeat and repeat and you realize you've been banging your head against the wall for hours of debugging to find out your ego has gotten in the way of the truth: your design sucks.
 
-Looking back, this project helped me realize a lot of realities in software. Even though I've written a ton of better code than this piece, it's stuck with me to this day simply because I can't forget its lesson.
+Looking back, this project helped me realize a lot of realities in software. Even though I've written a ton of better code than this piece, it's stuck with me to this day because its lesson is valuable.
 
 ---
 
