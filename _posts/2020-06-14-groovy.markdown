@@ -1,0 +1,27 @@
+---
+layout: post
+title: groovy bot 3
+category: posts
+---
+
+This little bot is an exercise in modern tech using Discord's API inspired by my friends.
+
+Was fun.
+
+---
+
+Take a look at the project if you want:
+[groovy bot 3][groovy bot 3]
+
+Talk to me.
+
+[messenger][facebook]
+
+[github][dqd]
+
+[reddit][reddit]
+
+[facebook]: https://www.m.me/dqdang1
+[dqd]: http://github.com/dqdang
+[reddit]: https://www.reddit.com/user/outsidefarmland/
+[groovy bot 3]: https://github.com/dqdang/groovy3
