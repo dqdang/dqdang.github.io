@@ -1,0 +1,30 @@
+---
+layout: post
+title: hold my liquor
+category: posts
+---
+
+*A Facebook messenger bot hosted on Heroku with Flask featuring a quick and easy way to get a random location for a meal. Key design differences from other messenger bots include quick and efficient Yelp API calls, asynchronous background services, and a responsive chat-based user interface.*
+
+How many times have you gotten upset at not being able to find food while chatting with your friend on messenger? For me, more than I would like to admit.
+
+Having a bit of experience with the HPP stack now (Heroku, Python, PostgresSQL), I decided to add in another API in conjunction with Facebook's Messenger API:
+Yelp. It didn't take too long, and it's usable for now.
+
+Take a look at the project if you want:
+[hold-my-liquor][hold-my-liquor]
+
+---
+
+Talk to me.
+
+[messenger][facebook]
+
+[github][dqd]
+
+[reddit][reddit]
+
+[facebook]: https://www.m.me/dqdang1
+[dqd]: http://github.com/dqdang
+[reddit]: https://www.reddit.com/user/outsidefarmland/
+[hold-my-liquor]: https://github.com/dqdang/hold-my-liquor

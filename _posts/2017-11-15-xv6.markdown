@@ -5,17 +5,19 @@ category: posts
 ---
 *A container system integrated into MIT’s OS xv6. Using file and process isolation, the tool allows users to create containers running on virtual consoles, framing environments for various applications*
 
-First thing's first, this project had a ton of interesting commits, ranging from "fuck this project" to "Update" multiple times in a row... It's quite nostalgic actually. I wonder if the mess of commits ever threw people off... because it definitely did for us.
-
 Aside from the descriptive messages, this was one of my first projects reading a large code base and adding a core functionality. Here are some of my thoughts on the project:
 
   **1)** Multiple design changes had to be made to support file isolation. Each feature prior to the changes triggered more red flags than my ex-girlfriend.
 
-  **2)** Passing kernel entries became more of a hassle than initially thought, and creating user/kernel separation turned out to be more plumbing than development.
+  **2)** Passing kernel entries became more of a hassle than initially thought, and creating user/kernel separation proved to be a recurring theme this project.
 
-  **3)** Reading code is way more difficult than writing. The single worse mistake any sofware company can make is rewriting their code from scratch. I definitely have thought about that many times... Especially during this project.
+  **3)** Reading code is way more difficult than writing. I've read that the single worse mistake any sofware company can make is rewriting their code from scratch. I definitely have thought about that many times... Especially during this project.
 
-Second off, I never realized the importance of not jumping into code before thinking ahead before. It's too didactic, so I won't bore you with details, but I did not plan well for this project at all. It always comes with a general idea plus a couple inspirations sprinkled here and there only to realize the brilliant inspiration is a huge design flaw, blocking the real issue underneath the bed sheets. By jumping in, I not only set back the project by a few important days, but also caused me to rip my hair out trying to make the inspiration work. Fast forward and it gets to another road block. Repeat and repeat and maybe [/r/SuicideWatch/](https://www.reddit.com/r/SuicideWatch/) is the subreddit you want to visit after those 6 hours of debugging to find out your design sucks. Unfortunately, it happens more often than usual, and it terrifies me that production code is enormous, and small hacks are constantly being added in, compounding on the problem and smothering the fundamental flaws in the code. But hey, don't fix it if it ain't broke. Don't want to make the single worse mistake a software company can make.
+Second off, I never realized the importance of not jumping into code before thinking ahead before. It's too didactic, so I won't bore you with details. But one thing was for certain though: I did not plan well for this project at all. It always comes with a general idea with a couple inspirations sprinkled here and there only to realize the brilliant idea is a huge design flaw, blocking the real issue underneath. By jumping in, I set back the project by a few important days and also caused me to rip my hair out trying to make the inspiration work.
+
+Fast forward and it gets to another road block. And another. And another... Repeat and repeat and you realize you've been banging your head against the wall for hours of debugging to find out your ego has gotten in the way of the truth: your design sucks.
+
+Looking back, this project helped me realize a lot of realities in software. Even though I've written a ton of better code than this piece, it's stuck with me to this day simply because I can't forget its lesson.
 
 ---
 
