@@ -23,7 +23,7 @@ Files were a little easier with a network up and running.
 
 We used a stamping mechanism in the images unique with their username and password of their WiFi network and passing the lengths into a build.
 
-The images turned out a lot smaller than expected, so that was a pleasant surprise (< 5GB total!). One day I hope to return to this project.
+The images turned out a small (< 5GB total!), efficient, and usable, so that was a pleasant experience . One day I hope to return to this project.
 
 ---
 
