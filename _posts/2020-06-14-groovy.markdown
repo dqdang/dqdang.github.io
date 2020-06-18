@@ -5,6 +5,7 @@ category: posts
 ---
 
 This little bot is an exercise in modern tech using Discord's API inspired by my friends.
+
 Built using Python, Discord's API, Heroku, and mischievousness.
 
 ---
