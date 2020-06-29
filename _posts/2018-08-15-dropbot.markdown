@@ -16,8 +16,6 @@ There are many future improvements we want to make, including shifting our messe
 
 ---
 
-Talk to me.
-
 [messenger][facebook]
 
 [github][dqd]

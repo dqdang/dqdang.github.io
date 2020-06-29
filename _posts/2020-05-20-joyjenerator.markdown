@@ -15,8 +15,6 @@ Take a look at the project if you want:
 
 ---
 
-Talk to me.
-
 [messenger][facebook]
 
 [github][dqd]
