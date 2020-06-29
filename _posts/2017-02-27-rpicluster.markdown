@@ -38,10 +38,9 @@ Talk to me.
 
 [reddit][reddit]
 
-[PGP][PGP]
+<a href="http://www.dqdang.github.io/derek-dang.asc">PGP</a>
 
 [facebook]: https://www.m.me/dqdang1
 [dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
-[PGP]: http://www.dqdang.github.io/derek-dang.asc
 [rpicluster]: https://github.com/rpicluster/rpicluster-stretch
