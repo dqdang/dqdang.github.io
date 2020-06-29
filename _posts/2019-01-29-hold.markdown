@@ -24,7 +24,10 @@ Talk to me.
 
 [reddit][reddit]
 
+[PGP][PGP]
+
 [facebook]: https://www.m.me/dqdang1
 [dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
+[PGP]: http://www.dqdang.github.io/derek-dang.asc
 [hold-my-liquor]: https://github.com/dqdang/hold-my-liquor

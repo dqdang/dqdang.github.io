@@ -10,10 +10,10 @@ Yeah... I don't have a coffee machine on the network, I don't have a co-worker n
 
 Built using Python, Discord's API, and Heroku.
 
----
-
 Take a look at the project if you want:
 [joyjenerator][joyjenerator]
+
+---
 
 Talk to me.
 
@@ -23,7 +23,10 @@ Talk to me.
 
 [reddit][reddit]
 
+[PGP][PGP]
+
 [facebook]: https://www.m.me/dqdang1
 [dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
+[PGP]: http://www.dqdang.github.io/derek-dang.asc
 [joyjenerator]: https://github.com/dqdang/joyjenerator

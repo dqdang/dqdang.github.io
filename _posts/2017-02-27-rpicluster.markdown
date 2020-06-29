@@ -25,10 +25,10 @@ We used a stamping mechanism in the images unique with their username and passwo
 
 The images turned out a small (< 5GB total!), efficient, and usable, so that was a pleasant experience . One day I hope to return to this project.
 
----
-
 Take a look at the project if you want:
 [rpicluster][rpicluster]
+
+---
 
 Talk to me.
 
@@ -38,7 +38,10 @@ Talk to me.
 
 [reddit][reddit]
 
+[PGP][PGP]
+
 [facebook]: https://www.m.me/dqdang1
 [dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
+[PGP]: http://www.dqdang.github.io/derek-dang.asc
 [rpicluster]: https://github.com/rpicluster/rpicluster-stretch

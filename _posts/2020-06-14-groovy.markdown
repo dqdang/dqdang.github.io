@@ -8,10 +8,10 @@ This little bot is an exercise in modern tech using Discord's API inspired by my
 
 Built using Python, Discord's API, Heroku, and mischievousness.
 
----
-
 Take a look at the project if you want:
 [groovy bot 3][groovy bot 3]
+
+---
 
 Talk to me.
 
@@ -24,4 +24,5 @@ Talk to me.
 [facebook]: https://www.m.me/dqdang1
 [dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
+[PGP]: http://www.dqdang.github.io/derek-dang.asc
 [groovy bot 3]: https://github.com/dqdang/groovy3

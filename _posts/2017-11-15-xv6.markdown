@@ -17,12 +17,12 @@ Second off, I never realized the importance of not jumping into code before thin
 
 Fast forward and it gets to another road block. And another. And another... Repeat and repeat and you realize you've been banging your head against the wall for hours of debugging to find out your ego has gotten in the way of the truth: your design sucks.
 
-Looking back, this project helped me realize a lot of realities in software. Even though I've written a ton of better code than this piece, it's stuck with me to this day because its lesson is valuable.
-
----
+Frustrating project, but a rewarding one with a valuable lesson.
 
 Take a look at the project if you want:
 [xv6-docker][xv6-docker]
+
+---
 
 Talk to me.
 
@@ -32,7 +32,10 @@ Talk to me.
 
 [reddit][reddit]
 
+[PGP][PGP]
+
 [facebook]: https://www.m.me/dqdang1
 [dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
+[PGP]: http://www.dqdang.github.io/derek-dang.asc
 [xv6-docker]: https://github.com/dqdang/xv6-docker
