@@ -3,6 +3,7 @@ layout: post
 title: xv6 docker
 category: posts
 ---
+
 *A container system integrated into MIT’s OS xv6. Using file and process isolation, the tool allows users to create containers running on virtual consoles, framing environments for various applications*
 
 Aside from the descriptive messages, this was one of my first projects reading a large code base and adding a core functionality. Here are some of my thoughts on the project:
