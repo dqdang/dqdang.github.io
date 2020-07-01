@@ -4,6 +4,16 @@ title: digested clips
 category: posts
 ---
 
+Twitch clips are always a pain to watch. They're slow to load (especially on mobile), buffer way too often, and scrubbing in any direction makes the previous two issues worse. I can't seem to watch a 30 second video unless I wait upwards of 5 minutes while sipping my already cold coffee and eating my stale sandwich on my lunch break reading reddit.
+
+So I decided I've had enough and created a bot to scrape a subreddit and comment YouTube mirrors for me.
+
+I've written detailed instructions on how to get the bot up and running on the README for anyone wanting to host it.
+
+Unfortunately, there's a lot of restrictions with rate limiting for uploading videos to YouTube; and understandably so.
+
+Future alternatives include uploading to Streamable (API doesn't allow it currently) or playing a pure MP4 download from a natively hosted app. Any ideas, let me know.
+
 Take a look at the project if you want:
 [digested clips][digested clips]
 
