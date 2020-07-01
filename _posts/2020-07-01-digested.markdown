@@ -10,7 +10,7 @@ So I decided I've had enough one day and created a bot to scrape a subreddit and
 
 I've written detailed instructions on how to get the bot up and running on the README for anyone wanting to host it.
 
-Unfortunately, there's a lot of restrictions with rate limiting for uploading videos to YouTube; and understandably so.
+Unfortunately, there's a bit of restriction with rate limiting for uploading videos to YouTube; and understandably so. The bot also needs a refresh token once in a while from Twitch. This makes the bot naive and dependent on maintenance.
 
 Future alternatives include uploading to Streamable (API doesn't allow it currently) or playing a pure MP4 download from a natively hosted app. Any ideas, let me know.
 
