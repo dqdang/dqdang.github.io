@@ -6,7 +6,7 @@ category: posts
 
 Twitch clips are always a pain to watch. They're slow to load (especially on mobile), buffer way too often, and scrubbing in any direction makes the previous two issues worse. I can't seem to watch a 30 second video unless I wait upwards of 5 minutes while sipping my already cold coffee and eating my stale sandwich on my lunch break reading reddit.
 
-So I decided I've had enough and created a bot to scrape a subreddit and comment YouTube mirrors for me.
+So I decided I've had enough and created a bot to scrape a subreddit and comment YouTube mirrors for me. My specific instance is hosted on [this channel][channel].
 
 I've written detailed instructions on how to get the bot up and running on the README for anyone wanting to host it.
 
@@ -31,4 +31,5 @@ Take a look at the project if you want:
 [dqd]: http://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
+[channel]: https://www.youtube.com/channel/UCfZ5RkmbZACUciI1IDncxJQ/
 [digested clips]: https://github.com/dqdang/digested-clips
