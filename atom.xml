@@ -12,7 +12,7 @@ layout: null
  <author>
    <name>{{ site.name }}</name>
  </author>
- 
+
  {% for post in site.posts %}
    {% unless post.draft %}
    <entry>
@@ -24,7 +24,7 @@ layout: null
    </entry>
    {% endunless %}
  {% endfor %}
- 
+
  {% for project in site.projects %}
    {% unless project.draft %}
    <entry>
