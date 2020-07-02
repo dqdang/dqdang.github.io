@@ -4,6 +4,6 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: dqd
+name: Derek Dang
 url: https://dqdang.github.io
 description: Just another project blog.
