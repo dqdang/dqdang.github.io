@@ -4,7 +4,7 @@ title: hold my liquor
 category: posts
 ---
 
-*A Facebook messenger bot hosted on Heroku with Flask featuring a quick and easy way to get a random location for a meal. Key design differences from other messenger bots include quick and efficient Yelp API calls, asynchronous background services, and a responsive chat-based user interface.*
+*A Facebook messenger bot hosted on Heroku with Flask featuring a quick and easy way to get a random location for a meal. Key design differences from other messenger bots include quick and efficient Yelp API calls, asynchronous background services, and a responsive chat-based interface.*
 
 How many times have you gotten upset at not being able to find food while chatting with your friend on messenger? For me, more than I would like to admit.
 
