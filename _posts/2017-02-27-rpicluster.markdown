@@ -4,7 +4,7 @@ title: rpicluster
 category: posts
 ---
 
-*A distro for a cluster of Raspberry Pis. rpicluster makes it easy to create a cluster of Raspberry Pis. Downloadable images come with a set of tools to aid setup, configuration, and updates. Visit http://rpicluster.com/ for more details.*
+*A distro for a cluster of Raspberry Pis. rpicluster makes it easy to create a cluster of Raspberry Pis. Downloadable images come with a set of tools to aid setup, configuration, and updates. Visit [http://rpicluster.com/](http://rpicluster.com/) for more details.*
 
 I invested my time into a big project for the summer with my friend. The goal was relatively simple: create a Raspberry Pi Cluster that is easily distributable, configurable, and intuitive. We demoed the project many times at research events and garnered some attention and won a couple of awards. Eventually, we wanted to see how far it would go as a startup. What if we made a package that just did all the configuration? What if we extend this onto other IoT devices? What if we became millionaires? You know what it became? It became a dream that slowly deterioted because we also forgot that we were unemployed living with our parents.
 
