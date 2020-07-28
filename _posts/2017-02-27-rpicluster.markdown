@@ -24,7 +24,7 @@ Files were a little easier with a network up and running.
 
 We used a stamping mechanism in the images unique with their username and password of their WiFi network and passing the lengths into a build.
 
-The images turned out a small (< 5GB total!), efficient, and usable, so that was a pleasant experience . One day I hope to return to this project.
+The images turned out small (< 5GB total!), efficient, and usable, so that was a pleasant experience . One day I hope to return to this project.
 
 Take a look at the project if you want:
 [rpicluster][rpicluster]
