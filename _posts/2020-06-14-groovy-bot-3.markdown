@@ -6,7 +6,7 @@ category: posts
 
 *Discord bot that sends funny messages.*
 
-This little bot is an exercise in modern tech using Discord's API inspired by my friends.
+This little bot is an exercise in modern tech using Discord's API inspired by my friends. Currently limited by Heroku's Dyno hours.
 
 Built using Python, Discord's API, Heroku, and mischievousness.
 
