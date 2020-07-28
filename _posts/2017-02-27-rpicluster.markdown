@@ -16,7 +16,7 @@ Turns out there's a great tool created by the Raspberry Pi Foundation: [pi-gen](
 
 **2) How do you network the Pis together to create a scalable cluster? How do we discover the nodes intuitively?**
 
-Managing the nodes to support multiple different networking capabilities adds complexity, and turned out to be a huge headache to implement. We eventually designed the startup process to include a neutral network before allowing the user to select their desired network. A reboot was necessary to ensure the right services started and IPtables were configured correctly.
+Managing the nodes to support multiple different networking capabilities adds complexity, and turned out to be a huge headache to implement. We eventually designed the startup process to default to a neutral network before allowing the user to select their desired network. A reboot was necessary to ensure the right services started and IPtables were configured correctly.
 
 Files were a little easier with a network up and running.
 
