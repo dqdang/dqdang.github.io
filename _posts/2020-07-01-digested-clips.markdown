@@ -6,7 +6,7 @@ category: posts
 
 *Subreddit scraper to create Youtube mirrors for Twitch clips.*
 
-Twitch clips are common on reddit; capturing small snippets of a livestream and then posting to community subreddits gets some of the most attention of the day.
+Twitch clips are common on reddit. Capturing small snippets of a livestream and then posting to community subreddits gets some of the most attention of the day.
 
 However, Twitch clips are always a pain to watch; they're slow to load (especially on mobile), buffer way too often, and scrubbing in any direction makes the previous two issues worse.
 
