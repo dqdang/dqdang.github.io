@@ -4,7 +4,7 @@ title: environment
 category: posts
 ---
 
-*Set of development environment scripts.*
+*Set of environment scripts for future reference.*
 
 Unfortunately for tree huggers, this isn't one of those posts.
 
