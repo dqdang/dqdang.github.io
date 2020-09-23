@@ -13,7 +13,7 @@ I have a couple scripts to recreate a development enviroment I'm comfortable wit
 Dev environment are always a huge hassle when migrating from computer to computer, so keeping organized alleviates the onboarding process.
 
 As the saying goes: if I had 3 hours to chop a tree, I would spend 2 hours sharpening my axe. Sorry again tree huggers.
-&nbsp;
+<br/>
 
 This is what my directory tree of my Windows environment looks like:
 ```
@@ -36,7 +36,7 @@ C:
     │   ...
 ...
 ```
-&nbsp;
+<br/>
 
 This is what my directory tree of my Unix/Mac environment looks like:
 ```
@@ -61,7 +61,7 @@ Users
     ...
 ...
 ```
-&nbsp;
+<br/>
 
 These are the scripts to get things going: [abode][abode]
 
