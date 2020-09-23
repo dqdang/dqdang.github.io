@@ -34,7 +34,7 @@ C:
 ...
 ```
 
-This is what my directory tree of my Unix environment looks like:
+This is what my directory tree of my Unix/Mac environment looks like:
 ```
 Users
 └───$User
