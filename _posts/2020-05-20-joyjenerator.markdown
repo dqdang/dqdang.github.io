@@ -4,7 +4,7 @@ title: joyjenerator
 category: posts
 ---
 
-*A Discord bot that sends dog pictures every 2 hours.*
+*Discord bot that sends dog pictures every 2 hours.*
 
 This little bot was an exercise in modern tech using Discord's API inspired by [this gentleman](https://bash.im/quote/436725) from [here](https://github.com/NARKOZ/hacker-scripts).
 
