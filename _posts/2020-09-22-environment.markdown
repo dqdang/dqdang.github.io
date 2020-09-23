@@ -4,6 +4,8 @@ title: environment
 category: posts
 ---
 
+*Set of development environment scripts.*
+
 Unfortunately for tree huggers, this isn't one of those posts.
 
 I have a couple scripts to recreate a development enviroment I'm comfortable with.
