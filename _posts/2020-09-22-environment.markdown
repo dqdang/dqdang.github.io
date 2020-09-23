@@ -60,7 +60,7 @@ Users
 ...
 ```
 
-These are the scripts to get me going: [abode][abode]
+These are the scripts to get things going: [abode][abode]
 
 Here's a script that takes the python directories in the git folder and installs their requirements: [updater][updater]
 
