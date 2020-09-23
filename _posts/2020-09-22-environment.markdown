@@ -35,7 +35,6 @@ C:
 ```
 
 This is what my directory tree of my Unix environment looks like:
-/Users/Administrator/Downloads
 ```
 Users
 └───$User
