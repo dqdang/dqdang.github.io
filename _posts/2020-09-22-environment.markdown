@@ -35,6 +35,7 @@ C:
     │   ...
 ...
 ```
+&nbsp;
 
 This is what my directory tree of my Unix/Mac environment looks like:
 ```
