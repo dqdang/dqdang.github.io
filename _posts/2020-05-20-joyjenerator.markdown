@@ -31,5 +31,5 @@ Take a look at the project if you want:
 [dqd]: https://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
-[joyjenerator]: https://github.com/dqdang/joyjenerator
 [coffee]: https://www.buymeacoffee.com/dqdang
+[joyjenerator]: https://github.com/dqdang/joyjenerator

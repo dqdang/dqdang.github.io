@@ -83,7 +83,7 @@ Here's a script that takes the python directories in the git folder and installs
 [dqd]: https://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
+[coffee]: https://www.buymeacoffee.com/dqdang
 [channel]: https://www.youtube.com/channel/UCfZ5RkmbZACUciI1IDncxJQ/
 [abode]: https://github.com/dqdang/humble-abode
 [updater]: https://github.com/dqdang/updater-tool
-[coffee]: https://www.buymeacoffee.com/dqdang

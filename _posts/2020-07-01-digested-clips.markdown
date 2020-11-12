@@ -40,5 +40,5 @@ Take a look at the project if you want:
 [reddit]: https://www.reddit.com/user/outsidefarmland/
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
 [channel]: https://www.youtube.com/channel/UCfZ5RkmbZACUciI1IDncxJQ/
-[digested clips]: https://github.com/dqdang/digested-clips
 [coffee]: https://www.buymeacoffee.com/dqdang
+[digested clips]: https://github.com/dqdang/digested-clips

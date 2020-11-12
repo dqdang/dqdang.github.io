@@ -29,5 +29,5 @@ Take a look at the project if you want:
 [dqd]: https://github.com/dqdang
 [reddit]: https://www.reddit.com/user/outsidefarmland/
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
-[hold-my-liquor]: https://github.com/dqdang/hold-my-liquor
 [coffee]: https://www.buymeacoffee.com/dqdang
+[hold-my-liquor]: https://github.com/dqdang/hold-my-liquor
