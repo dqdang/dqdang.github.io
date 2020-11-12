@@ -11,7 +11,7 @@ The flavor of the month of October is competition, for League of Legends that is
 The idea for the project is what if you ere able to look up a player and see their jungle paths?
 
 
-Well, that was a cool idea until it wasn't. Riot's API spaces out the frames captured per game as 30 second intervals. When a 5 second lead is a considerable lead in the jungle, 30 seconds is too much to account for in a path. There was no way to determine the path even given the gold and experience because of external factors.
+Well, that was a cool idea until it wasn't. Riot's API spaces out the frames captured per game as 30 second intervals. When a 5 second lead is a considerable lead in the jungle, 30 seconds is too much to account for in a path. There was no way to determine the path even given the frames, gold, and experience because of external factors like invades, kills, and taxes.
 
 Even though this was a failure, it was a fun experience working with Riot's API.
 
