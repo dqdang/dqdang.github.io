@@ -8,7 +8,7 @@ category: posts
 
 The flavor of the month of October is competition, for League of Legends that is. My friends and I participated in a tournament hosted at the same time the world championship is. During this time, we came up with strategies, team compositions, and overall teamwork to improve our chances of winning. A common theme to winning a game for the current meta is setting up our jungler for success and snowballing the game. A key advantage in winning the jungle is knowing the path of the enemy jungler as every jungler has their own path and can be played around.
 
-The idea for the project is what if you ere able to look up a player and see their jungle paths?
+The idea for the project is what if you ere able to look up a player and see their jungle paths, including a separate view for each champion?
 
 Well, that was a cool idea until it wasn't. Riot's API spaces out the frames captured per game as 30 second intervals. When a 5 second lead is a considerable lead in the jungle, 30 seconds is too much to account for in a path. There was no way to determine the path even given the frames, gold, and experience because of external factors like invades, kills, and taxes.
 
