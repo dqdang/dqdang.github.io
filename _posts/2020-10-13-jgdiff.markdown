@@ -12,7 +12,7 @@ The idea for the project is what if you ere able to look up a player and see the
 
 Well, that was a cool idea until it wasn't. Riot's API spaces out the frames captured per game as 30 second intervals. When a 5 second lead is a considerable lead in the jungle, 30 seconds is too much to account for in a path. There was no way to determine the path even given the frames, gold, and experience because of external factors like invades, kills, and taxes.
 
-Even though we failed here, we ended 3rd place in the tournament overall, which exceeded expectations.
+Even though we failed here, we ended 3rd place in the tournament overall, which exceeded expectations. In the future, we may revisit this idea and implement it.
 
 Take a look at the project if you want:
 [jgdiff][jgdiff]
