@@ -1,0 +1,31 @@
+---
+layout: post
+title: ward hop
+category: posts
+---
+
+*League of Legends draft simulator*
+
+A key portion of any League of Legends game is the draft. It's like the first couple moves in chess. A few good moves and you can get a huge advantage over the opposition. I created a fast draft simulator to practice team compositions with my team. It's helped us learn how to counter certain champions and pivot our playstyles adapting to certain situations for specific compositions and power spikes.
+
+Take a look at the project if you want:
+[ward hop][ward hop]
+
+---
+
+[messenger][facebook]
+
+[github][dqd]
+
+[reddit][reddit]
+
+[PGP][PGP]
+
+[coffee][coffee]
+
+[facebook]: https://www.m.me/dqdang1
+[dqd]: https://github.com/dqdang
+[reddit]: https://www.reddit.com/user/outsidefarmland/
+[PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
+[coffee]: https://www.buymeacoffee.com/dqdang
+[ward hop]: https://github.com/dqdang/ward-hop
