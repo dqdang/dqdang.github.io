@@ -8,6 +8,8 @@ category: posts
 
 A key portion of any League of Legends game is the draft. It's like the first couple moves in chess. A few good moves and you can get a huge advantage over the opposition. I created a fast draft simulator to practice team compositions with my team. It's helped us learn how to counter certain champions and pivot our playstyles adapting to certain situations for specific compositions and power spikes.
 
+It features shared sessions with updatable champion data. I plan on adding accounts to save certain drafts and the ability to analyze team synergy and win conditions.
+
 Take a look at the project if you want:
 [ward hop][ward hop]
 
