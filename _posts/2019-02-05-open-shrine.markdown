@@ -4,7 +4,7 @@ title: open shrine
 category: posts
 ---
 
-*A casual randomized exploration journey.*
+*A casual randomized exploration journey*
 
 I take interest in learning about the thoughts of those more religious than mine.
 [Terry Davis](https://en.wikipedia.org/wiki/Terry_A._Davis) fascinated me with his [OS](https://en.wikipedia.org/wiki/TempleOS), 
