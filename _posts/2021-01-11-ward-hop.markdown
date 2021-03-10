@@ -8,7 +8,7 @@ category: posts
 
 A key component of any League of Legends game is the drafting phase. This is where both teams select their champions to play over the course of the game. Naturally, some champions are better than others and all champions fluctuate from a good pick to a bad one every two weeks with a new patch (at least in theory!). During this phase, it's important to draft champions that synergize well with one another to create a game plan that can be executed feasibly. It's like the first couple moves in chess. A few good moves and you can get a huge advantage over the opposition. I created a fast and easy draft simulator to practice team compositions with my team. There are other alternatives, but they aren't up to date and the website can be really slow. It's helped us learn how to counter certain champions and pivot our playstyles adapting to certain situations for specific compositions and power spikes.
 
-It features shared sessions with updatable champion data. There can be a future for this project like adding accounts to save certain drafts and/or the ability to analyze team synergy and win conditions.
+It features shared sessions with updatable champion data built on a Django framework. There can be a future for this project like adding accounts to save certain drafts and/or the ability to analyze team synergy and win conditions.
 
 Take a look at the project if you want:
 [ward hop][ward hop]
