@@ -38,10 +38,35 @@ C:
 ```
 <br/>
 
-This is what my directory tree of my Unix/Mac environment looks like:
+This is what my directory tree of my Mac environment looks like:
 ```
 Users
-└───$User
+└───$USER
+    └───git
+        │
+        └───folder1
+        │      │   README.md
+        │      │   file012.txt
+        │      │
+        │      └───subfolder1
+        │          │   file111.txt
+        │          │   file112.txt
+        │          │   ...
+        │
+        └───folder2
+            │   README.md
+            │   file022.txt
+        │
+        │   ...
+    ...
+...
+```
+<br/>
+
+This is what my directory tree of my Unix environment looks like:
+```
+home
+└───$USER
     └───git
         │
         └───folder1
