@@ -37,7 +37,7 @@ Take a look at the project if you want:
 
 [facebook]: https://www.m.me/dqdang1
 [dqd]: https://github.com/dqdang
-[reddit]: https://www.reddit.com/user/outsidefarmland/
+[reddit]: https://www.reddit.com/user/outsidefarmland
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
 [coffee]: https://www.buymeacoffee.com/dqdang
 [xv6-docker]: https://github.com/dqdang/xv6-docker
