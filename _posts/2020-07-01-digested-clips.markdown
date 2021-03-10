@@ -4,7 +4,7 @@ title: digested clips
 category: posts
 ---
 
-*Subreddit scraper to create Youtube mirrors for Twitch clips.*
+*Subreddit scraper to create Youtube mirrors for Twitch clips*
 
 Twitch clips are common on reddit. Capturing small snippets of a livestream and then posting to community subreddits gets some of the most attention of the day.
 
