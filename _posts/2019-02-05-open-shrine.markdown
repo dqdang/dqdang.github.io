@@ -11,7 +11,7 @@ I take interest in learning about the thoughts of those more religious than mine
 and I came to the conclusion that I also wanted to explore such a route. Will update with more stuff.
 
 EDIT:
-Update on this project. I added a grayscale camera mirror.
+Update on this project: I added a grayscale camera mirror.
 
 Take a look at the project if you want:
 [open-shrine][open-shrine]
