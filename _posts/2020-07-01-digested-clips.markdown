@@ -13,7 +13,7 @@ So I decided I've had enough is enough one day and created a bot to scrape a sub
 Future alternatives include uploading to Streamable (API currently doesn't allow it) or playing a pure MP4 download from a natively hosted app. Any ideas, let me know.
 
 UPDATE 03/25/21: Alas, Google put their foot on the brake. It is now against Youtube Community Guidelines to post videos that are considered spam, and since the Twitch clips are about 30s max, they land under that category.<br>
-https://support.google.com/youtube/answer/2801973?hl=en&ref_topic=9282365
+[:(][spam]
 
 Take a look at the project if you want:
 [digested clips][digested clips]
@@ -35,5 +35,6 @@ Take a look at the project if you want:
 [reddit]: https://www.reddit.com/user/outsidefarmland
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
 [channel]: https://www.youtube.com/channel/UCfZ5RkmbZACUciI1IDncxJQ
+[spam]: https://support.google.com/youtube/answer/2801973?hl=en&ref_topic=9282365
 [coffee]: https://www.buymeacoffee.com/dqdang
 [digested clips]: https://github.com/dqdang/digested-clips
