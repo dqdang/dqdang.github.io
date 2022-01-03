@@ -1,0 +1,33 @@
+---
+layout: post
+title: strafe
+category: posts
+---
+
+*Always-on-top text editor*
+
+Yeah this is probably the most basic editor ever.
+
+Useful for moments when you're muted in Zoom University and screensharing and need to type to your audience... Don't ask how this situation came up.
+
+Take a look at the project if you want:
+[strafe][strafe]
+
+---
+
+[messenger][facebook]
+
+[github][dqd]
+
+[reddit][reddit]
+
+[PGP][PGP]
+
+[coffee][coffee]
+
+[facebook]: https://www.m.me/dqdang1
+[dqd]: https://github.com/dqdang
+[reddit]: https://www.reddit.com/user/outsidefarmland
+[PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
+[coffee]: https://www.buymeacoffee.com/dqdang
+[strafe]: https://github.com/dqdang/strafe

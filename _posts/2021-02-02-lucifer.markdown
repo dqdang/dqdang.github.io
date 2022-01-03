@@ -1,0 +1,34 @@
+---
+layout: post
+title: lucifer
+category: posts
+---
+
+*Puzzle and Dragons lookup tool*
+
+Yeah I got upset one day that PAD still doesn't easily list the experience for dungeons and [puzzledragonx.com][puzzledragonx.com] doesn't list stamina unless I dig for it. 
+
+Quick and dirty tool to find the most efficient experience per stamina dungeon based on input experience. Updates using [puzzledragonx.com][puzzledragonx.com]. Uses a small Postgres database built on a Django server.
+
+Take a look at the project if you want:
+[lucifer][lucifer]
+
+---
+
+[messenger][facebook]
+
+[github][dqd]
+
+[reddit][reddit]
+
+[PGP][PGP]
+
+[coffee][coffee]
+
+[facebook]: https://www.m.me/dqdang1
+[dqd]: https://github.com/dqdang
+[reddit]: https://www.reddit.com/user/outsidefarmland
+[PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
+[coffee]: https://www.buymeacoffee.com/dqdang
+[lucifer]: https://github.com/dqdang/lucifer
+[puzzledragonx.com]: http://puzzledragonx.com/
