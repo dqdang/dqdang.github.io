@@ -4,7 +4,7 @@ title: lucifer
 category: posts
 ---
 
-*Puzzle and Dragons lookup tool*
+*Puzzle and Dragons experience/stamina lookup tool*
 
 Yeah I got upset one day that PAD still doesn't easily list the experience for dungeons and [puzzledragonx.com][puzzledragonx.com] doesn't list stamina unless I dig for it. 
 
