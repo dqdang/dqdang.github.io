@@ -4,7 +4,7 @@ title: dropbot
 category: posts
 ---
 
-*A subscription-based Facebook messenger bot hosted on Heroku featuring a database of products populated by a web monitor. Key design differences from other messenger bots include efficient database queries, asynchronous background services, and a responsive chat-based user interface.*
+*A subscription-based Facebook messenger bot to scrape for the latest drops on ACRNM*
 
 I co-created this project in a mix of panic, excitement, and the slow creeping feeling of unemployment. I spent a couple months doing Leetcode questions with my friend on Google Hangouts while working as a test technician during the day and wanted something to show for all the practice I was doing. Functionality was finished within a week and a half, but integration and actual deployment didn't happen until two months later. My friend and I decided to start this bad boy when we saw techwear company [acronym](https://acrnm.com/) raising prices to 200% of their initial offerings. The project is hosted on [Heroku](https://www.heroku.com/); it runs through continuous integration and a development app before fully deploying changes and creating a release. 
 
