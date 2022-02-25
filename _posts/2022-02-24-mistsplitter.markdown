@@ -4,7 +4,7 @@ title: mistsplitter
 category: posts
 ---
 
-*3D model viewer*
+*Mistplitter 3D model viewer*
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
@@ -12,7 +12,7 @@ category: posts
 
 
 Take a look at the project if you want:
-[misty-rain][misty-rain]
+[mistsplitter][mistsplitter]
 
 ---
 
@@ -31,4 +31,4 @@ Take a look at the project if you want:
 [reddit]: https://www.reddit.com/user/outsidefarmland
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
 [coffee]: https://www.buymeacoffee.com/dqdang
-[misty-rain]: https://github.com/dqdang/misty-rain
+[mistsplitter]: https://github.com/dqdang/misty-rain
