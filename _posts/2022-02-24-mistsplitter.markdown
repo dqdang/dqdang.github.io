@@ -4,7 +4,7 @@ title: mistsplitter
 category: posts
 ---
 
-*Mistplitter 3D model viewer*
+*3D sword model*
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
