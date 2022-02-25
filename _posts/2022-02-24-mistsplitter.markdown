@@ -4,10 +4,10 @@ title: mistsplitter
 category: posts
 ---
 
-<!-- Import the component -->
+*3D model viewer*
+
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<!-- Use it like any other HTML element -->
 <model-viewer alt="Mistsplitter. It is said that it can call upon the power of lightning itself to slice through the mountain mist and night fog." src="/images/Mistsplitter.glb" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" camera-controls></model-viewer>
 
 
