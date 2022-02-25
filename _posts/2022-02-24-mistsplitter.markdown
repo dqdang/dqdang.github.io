@@ -4,7 +4,7 @@ title: mistsplitter
 category: posts
 ---
 
-*3D sword model*
+*霧切の廻光*
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
