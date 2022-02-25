@@ -4,11 +4,26 @@ title: mistsplitter
 category: posts
 ---
 
+<style>
+model-viewer {
+  width: 800px;
+  height: 600px;
+}
+
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<!-- Use it like any other HTML element -->
-<model-viewer alt="Mistsplitter. It is said that it can call upon the power of lightning itself to slice through the mountain mist and night fog." src="/images/Mistsplitter.glb" ar ar-modes="webxr scene-viewer quick-look" poster="/images/sword1.jpg" seamless-poster shadow-intensity="1" camera-controls></model-viewer>
+<model-viewer bounds="tight" src="/images/Mistsplitter.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="/images/sword1.jpeg" shadow-intensity="1">
+
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+</model-viewer>
+
+
 
 Take a look at the project if you want:
 [misty-rain][misty-rain]
