@@ -159,8 +159,11 @@ a {
     }
   }
   model-viewer {
-    width: 700px;
-    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+    width: 500px;
   }  
   .byline {
     margin-bottom: 17px;
