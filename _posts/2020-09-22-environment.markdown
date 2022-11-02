@@ -98,15 +98,12 @@ Here's a script that takes the python directories in the git folder and installs
 
 [github][dqd]
 
-[reddit][reddit]
-
 [PGP][PGP]
 
 [coffee][coffee]
 
 [facebook]: https://www.m.me/dqdang1
 [dqd]: https://github.com/dqdang
-[reddit]: https://www.reddit.com/user/outsidefarmland
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
 [coffee]: https://www.buymeacoffee.com/dqdang
 [abode]: https://github.com/dqdang/humble-abode
