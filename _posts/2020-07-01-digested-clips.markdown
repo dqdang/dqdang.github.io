@@ -20,7 +20,7 @@ Take a look at the project if you want:
 
 ---
 
-[messenger][facebook]
+[discord][discord]
 
 [github][dqd]
 
@@ -28,7 +28,7 @@ Take a look at the project if you want:
 
 [coffee][coffee]
 
-[facebook]: https://www.m.me/dqdang1
+[discord]: https://discord.com/channels/@me/dqd#0143
 [dqd]: https://github.com/dqdang
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
 [channel]: https://www.youtube.com/channel/UCfZ5RkmbZACUciI1IDncxJQ
