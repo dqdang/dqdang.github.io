@@ -10,7 +10,9 @@ Yeah I got upset one day that PAD still doesn't easily list the experience for d
 
 Quick and dirty tool to find the most efficient experience per stamina dungeon based on input experience. Updates using [puzzledragonx.com][puzzledragonx.com]. Uses a small Postgres database built on a Django server.
 
-**Edit 01/24/2022**
+
+**Edit (01/24/2022):**
+
 [puzzledragonx.com][puzzledragonx.com] no longer exists.
 
 Take a look at the project if you want:
