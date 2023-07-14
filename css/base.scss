@@ -16,7 +16,84 @@ body {
   }
 
   body a {
-    color: #809fff;
+    color: #227ce8;
+  }
+  .sidebar {
+    .name {
+      #fname {
+        color: rgb(255, 255, 255);
+      }
+      #lname {
+        color: rgb(255, 255, 255);
+      }
+    }
+
+    .meta {
+      a {
+        margin-left: 0px;
+        color: rgb(255, 255, 255);
+        &:hover {
+          color: #227ce8;
+        }
+      }
+    }
+    .sections {
+      a {
+        color: rgb(255, 255, 255);
+        &:hover {
+          color: #227ce8;
+        }
+      }
+    }
+  }
+  .content {
+    h1, h2, h3, h4 {
+      color: #333;
+      a {
+        color: #111;
+      }
+    }
+    h3 {
+      color: #dad6d6;
+    }
+    p {
+      code {
+        background-color: #1a1717;
+        border: 1px solid #0f0a0a;
+      }
+    }
+    img {
+      border: 1px solid #eeeeee;
+    }
+    blockquote {
+      color: #444;
+      cite {
+        &:before {
+          content: '— ';
+        }
+        color: #faf9f9;
+      }
+    }
+    .byline {
+      color: #777;
+    }
+    .aside {
+      background-color: #1b1b1b;
+    }
+    .listing {
+      li {
+        color: #c4c4c4;
+        border-bottom: 1px solid #1d1d1d;
+      }
+    }
+    .talk-design .color {
+      div {
+        border: 1px solid #ffffff;
+      }
+      .white {
+        color: #fff;
+      }
+    }
   }
 }
 
