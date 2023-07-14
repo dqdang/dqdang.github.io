@@ -9,8 +9,6 @@ category: posts
 I have a couple scripts to recreate a development enviroment I'm comfortable with.
 
 Dev environment are always a huge hassle when migrating from computer to computer, so keeping organized alleviates the onboarding process.
-
-As the saying goes: if I had 3 hours to chop a tree, I would spend 2 hours sharpening my axe. Sorry again tree huggers.
 <br/>
 
 This is what my directory tree of my Windows environment looks like:
