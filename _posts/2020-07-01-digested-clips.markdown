@@ -12,8 +12,8 @@ So I decided I've had enough is enough one day and created a bot to scrape a sub
 
 Future alternatives include uploading to Streamable (API currently doesn't allow it) or playing a pure MP4 download from a natively hosted app. Any ideas, let me know.
 
-UPDATE 03/25/21: Alas, Google has had enough. It is now against Youtube Community Guidelines to post videos that are considered spam, and since the Twitch clips are about 30s max, they land under that category. There may be a future in Streamable, but Youtube is probably not the move anymore.<br/>
-[Reference link to guidelines.][spam]
+**UPDATE 03/25/2021: Alas, Google has had enough. It is now against Youtube Community Guidelines to post videos that are considered spam, and since the Twitch clips are about 30s max, they land under that category. There may be a future in Streamable, but Youtube is probably not the move anymore.<br/>
+[Reference link to guidelines.][spam]**
 
 Take a look at the project if you want:
 [digested clips][digested clips]
