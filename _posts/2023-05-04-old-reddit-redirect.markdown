@@ -13,7 +13,7 @@ Take a look at the project if you want:
 [old-reddit-redirect][old-reddit-redirect]
 
 Install the extension on your Edge browser:
-[install][install]
+[Edge Add-on][install]
 
 ---
 
