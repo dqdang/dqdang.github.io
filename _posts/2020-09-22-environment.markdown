@@ -6,8 +6,6 @@ category: posts
 
 *Set of environment scripts for future reference*
 
-Unfortunately for tree huggers, this isn't one of those posts. Sorry.
-
 I have a couple scripts to recreate a development enviroment I'm comfortable with.
 
 Dev environment are always a huge hassle when migrating from computer to computer, so keeping organized alleviates the onboarding process.
