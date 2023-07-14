@@ -12,7 +12,7 @@ Dev environment are always a huge hassle when migrating from computer to compute
 <br/>
 
 This is what my directory tree of my Windows environment looks like:
-```
+~~~
 C:
 └───git
     │
@@ -31,11 +31,11 @@ C:
     │
     │   ...
 ...
-```
+~~~
 <br/>
 
 This is what my directory tree of my Mac environment looks like:
-```
+~~~
 Users
 └───$USER
     └───git
@@ -56,11 +56,11 @@ Users
         │   ...
     ...
 ...
-```
+~~~
 <br/>
 
 This is what my directory tree of my Unix environment looks like:
-```
+~~~
 home
 └───$USER
     └───git
@@ -81,7 +81,7 @@ home
         │   ...
     ...
 ...
-```
+~~~
 <br/>
 
 These are the scripts to get things going: [abode][abode]
