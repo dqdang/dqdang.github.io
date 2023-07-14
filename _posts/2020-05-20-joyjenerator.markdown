@@ -6,7 +6,7 @@ category: posts
 
 *Discord bot that sends dog pictures every 2 hours*
 
-This little bot was an exercise in modern tech using Discord's API inspired by [this guy](https://bash.im/quote/436725) from [here](https://github.com/NARKOZ/hacker-scripts).
+This little bot was an exercise in modern tech using Discord's API inspired by [this guy](https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker) from [here](https://github.com/NARKOZ/hacker-scripts).
 
 Yeah... I don't have a coffee machine on the network, I don't have a co-worker named Kumar, and I don't have a wife... but I do miss my dog when I'm at work.
 
