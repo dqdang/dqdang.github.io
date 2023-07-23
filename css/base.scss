@@ -81,6 +81,69 @@ a {
       margin-bottom: 7px;
     }
   }
+  .toggle {
+    .switch {
+      position: relative;
+      display: inline-block;
+      width: 60px;
+      height: 34px;
+    }
+    
+    /* Hide default HTML checkbox */
+    .switch input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+    
+    /* The slider */
+    .slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #ccc;
+      -webkit-transition: .4s;
+      transition: .4s;
+    }
+    
+    .slider:before {
+      position: absolute;
+      content: "";
+      height: 26px;
+      width: 26px;
+      left: 4px;
+      bottom: 4px;
+      background-color: white;
+      -webkit-transition: .4s;
+      transition: .4s;
+    }
+    
+    input:checked + .slider {
+      background-color: #2196F3;
+    }
+    
+    input:focus + .slider {
+      box-shadow: 0 0 1px #2196F3;
+    }
+    
+    input:checked + .slider:before {
+      -webkit-transform: translateX(26px);
+      -ms-transform: translateX(26px);
+      transform: translateX(26px);
+    }
+    
+    /* Rounded sliders */
+    .slider.round {
+      border-radius: 34px;
+    }
+    
+    .slider.round:before {
+      border-radius: 50%;
+    }
+  }
 }
 
 .content {
@@ -246,95 +309,110 @@ a {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #d9d9d9;
-    background: #1f1e21;
-  }
+// @media (prefers-color-scheme: dark) {
+body.dark {
+  color: #d9d9d9;
+  background: #1f1e21;
+}
 
-  body a {
-    color: #6d92bf;
-  }
-  .sidebar {
-    .name {
-      #fname {
-        color: #d9d9d9;
-      }
-      #lname {
-        color: #d9d9d9;
-      }
-      a {
-        color: #d9d9d9;
-      }
-      img {
-        color: #d9d9d9;
-      }
-    }
-    .meta {
-      a {
-        color: #d9d9d9;
-        &:hover {
-          color: #6d92bf;
-        }
-      }
-    }
-    .sections {
-      a {
-        color: #d9d9d9;
-        &:hover {
-          color: #6d92bf;
-        }
-      }
-    }
-  }
-  .content {
-    h1, h2, h3, h4 {
-      color: #d9d9d9;
-      a {
-        color: #ffffff;
-      }
-    }
-    h3 {
+body.dark a {
+  color: #6d92bf;
+}
+.sidebar.dark {
+  .name {
+    #fname {
       color: #d9d9d9;
     }
-    p {
-      code {
-        color: #d9d9d9;
-        background-color: #161616;
-        border: 1px solid #000000;
-      }
+    #lname {
+      color: #d9d9d9;
+    }
+    a {
+      color: #d9d9d9;
     }
     img {
-      border: 1px solid #1f1e21;
+      color: #d9d9d9;
     }
-    blockquote {
-      color: #444;
-      cite {
-        &:before {
-          content: '— ';
-        }
-        color: #d9d9d9;
+  }
+  .meta {
+    a {
+      color: #d9d9d9;
+      &:hover {
+        color: #6d92bf;
       }
     }
-    .byline {
-      color: #777;
+  }
+  .sections {
+    a {
+      color: #d9d9d9;
+      &:hover {
+        color: #6d92bf;
+      }
     }
-    .aside {
+  }
+  .toggle {
+    .slider {
       background-color: #1f1e21;
     }
-    .listing {
-      li {
-        color: #d9d9d9;
-        border-bottom: 1px solid #494949;
-      }
+    .slider:before {
+      background-color: #161616;
     }
-    .talk-design .color {
-      div {
-        border: 1px solid #d9d9d9;
-      }
-      .white {
-        color: #d9d9d9;
-      }
+    input:checked + .slider {
+      background-color: #0d679b;
+    }
+    
+    input:focus + .slider {
+      box-shadow: 0 0 1px #0d679b;
     }
   }
 }
+.content.dark {
+  h1, h2, h3, h4 {
+    color: #d9d9d9;
+    a {
+      color: #ffffff;
+    }
+  }
+  h3 {
+    color: #d9d9d9;
+  }
+  p {
+    code {
+      color: #d9d9d9;
+      background-color: #161616;
+      border: 1px solid #000000;
+    }
+  }
+  img {
+    border: 1px solid #1f1e21;
+  }
+  blockquote {
+    color: #444;
+    cite {
+      &:before {
+        content: '— ';
+      }
+      color: #d9d9d9;
+    }
+  }
+  .byline {
+    color: #777;
+  }
+  .aside {
+    background-color: #1f1e21;
+  }
+  .listing {
+    li {
+      color: #d9d9d9;
+      border-bottom: 1px solid #494949;
+    }
+  }
+  .talk-design .color {
+    div {
+      border: 1px solid #d9d9d9;
+    }
+    .white {
+      color: #d9d9d9;
+    }
+  }
+}
+// }
