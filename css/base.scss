@@ -264,7 +264,6 @@ a {
   position: relative;
   width: 34px;
   height: 15px;
-  cursor: pointer;
 }
 
 .dark-mode-toggle input {
@@ -282,6 +281,7 @@ a {
   background-color: #ddd;
   border-radius: 50px;
   transition: transform 0.3s ease;
+  cursor: pointer;
 }
 
 .dark-mode-toggle input:checked + .toggle-btn {
@@ -289,7 +289,7 @@ a {
   transform: translateX(20px);
 }
 
-.toggle-btn:before {
+.dark-mode-toggle .toggle-btn:before {
   content: "";
   position: absolute;
   width: 12px;
@@ -305,7 +305,7 @@ a {
   transform: translateX(20px);
 }
 
-.toggle-btn:after {
+.dark-mode-toggle .toggle-btn:after {
   content: "Dark";
   position: absolute;
   font-size: 10px;
