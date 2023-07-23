@@ -1,9 +1,9 @@
 permalink: /posts/:title
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-sitemap
 
-name: Derek Dang
+title: Derek Dang
 url: https://dqdang.github.io
 description: Another project blog.
