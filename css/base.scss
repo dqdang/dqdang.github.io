@@ -338,3 +338,12 @@ a {
     }
   }
 }
+.dark-mode-toggle {
+  cursor: pointer;
+  font-size: 14px;
+  color: #777;
+}
+
+body.dark-mode .dark-mode-toggle {
+  color: #d9d9d9;
+}

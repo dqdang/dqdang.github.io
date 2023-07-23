@@ -20,6 +20,25 @@
     <ul>
       <li><a href="/about">about</a></li>
       <li><a href="/">posts</a></li>
+      <div class="dark-mode-toggle">Dark Mode</div>
     </ul>
   </section>
 </section>
+<script>
+  const darkModeToggle = document.querySelector('.dark-mode-toggle');
+  const body = document.body;
+
+  // Check if dark mode preference is already set
+  const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  if (prefersDarkMode) {
+    body.classList.add('dark-mode');
+  }
+
+  // Function to toggle dark mode
+  function toggleDarkMode() {
+    body.classList.toggle('dark-mode');
+  }
+
+  // Event listener for the toggle switch
+  darkModeToggle.addEventListener('click', toggleDarkMode);
+</script>
