@@ -248,8 +248,22 @@ a {
 
 .dark-mode-toggle {
   cursor: pointer;
-  font-size: 14px;
-  color: #777
+  font-size: 16px;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Add some hover effects */
+.dark-mode-toggle:hover {
+  background-color: #444;
+}
+
+/* Add a transition for smooth animation */
+.dark-mode-toggle {
+  transition: background-color 0.3s ease;
 }
 
 body.dark-mode {
