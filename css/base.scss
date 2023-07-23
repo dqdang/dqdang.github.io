@@ -259,15 +259,12 @@ a {
   height: 0;
 }
 
-/* Existing CSS rules */
-/* ... */
-
-/* Add this style for the new Dark Mode Toggle */
 .dark-mode-toggle {
   display: inline-block;
   position: relative;
   width: 34px;
   height: 15px;
+  cursor: pointer;
 }
 
 .dark-mode-toggle input {
@@ -285,7 +282,6 @@ a {
   background-color: #ddd;
   border-radius: 50px;
   transition: transform 0.3s ease;
-  cursor: pointer;
 }
 
 .dark-mode-toggle input:checked + .toggle-btn {
@@ -293,7 +289,7 @@ a {
   transform: translateX(20px);
 }
 
-.dark-mode-toggle .toggle-btn:before {
+.toggle-btn:before {
   content: "";
   position: absolute;
   width: 12px;
@@ -309,7 +305,7 @@ a {
   transform: translateX(20px);
 }
 
-.dark-mode-toggle .toggle-btn:after {
+.toggle-btn:after {
   content: "Dark";
   position: absolute;
   font-size: 10px;
