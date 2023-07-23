@@ -265,13 +265,13 @@ a {
   left: 1px;
   width: 14px;
   height: 14px;
-  background-color: #ddd;
+  background-color: #333;
   border-radius: 50px;
   transition: transform 0.3s ease;
 }
 
 .dark-mode-toggle input:checked + .toggle-btn {
-  background-color: #333;
+  background-color: #ddd;
   transform: translateX(20px);
 }
 
@@ -280,7 +280,7 @@ a {
   position: absolute;
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #1f1e21;
   border-radius: 50%;
   top: 3px;
   left: 3px;
