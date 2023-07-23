@@ -287,11 +287,12 @@ a {
   transition: transform 0.3s ease;
 }
 
+
 .dark-mode-toggle input:checked + .toggle-btn:before {
   transform: translateX(20px);
 }
 
-.dark-mode-toggle .toggle-btn:after {
+.dark-mode-toggle input:checked + .toggle-btn:after {
   content: "Dark";
   position: absolute;
   font-size: 10px;
@@ -301,7 +302,7 @@ a {
   left: 5px;
 }
 
-.dark-mode-toggle input:checked + .toggle-btn:after {
+.dark-mode-toggle .toggle-btn:after {
   content: "Light";
   left: 23px;
   color: #aaa;
