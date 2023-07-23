@@ -246,95 +246,95 @@ a {
   }
 }
 
-// @media (prefers-color-scheme: dark) {
-body.dark {
-  color: #d9d9d9;
-  background: #1f1e21;
-}
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #d9d9d9;
+    background: #1f1e21;
+  }
 
-body.dark a {
-  color: #6d92bf;
-}
-.sidebar.dark {
-  .name {
-    #fname {
+  body a {
+    color: #6d92bf;
+  }
+  .sidebar {
+    .name {
+      #fname {
+        color: #d9d9d9;
+      }
+      #lname {
+        color: #d9d9d9;
+      }
+      a {
+        color: #d9d9d9;
+      }
+      img {
+        color: #d9d9d9;
+      }
+    }
+    .meta {
+      a {
+        color: #d9d9d9;
+        &:hover {
+          color: #6d92bf;
+        }
+      }
+    }
+    .sections {
+      a {
+        color: #d9d9d9;
+        &:hover {
+          color: #6d92bf;
+        }
+      }
+    }
+  }
+  .content {
+    h1, h2, h3, h4 {
+      color: #d9d9d9;
+      a {
+        color: #ffffff;
+      }
+    }
+    h3 {
       color: #d9d9d9;
     }
-    #lname {
-      color: #d9d9d9;
-    }
-    a {
-      color: #d9d9d9;
+    p {
+      code {
+        color: #d9d9d9;
+        background-color: #161616;
+        border: 1px solid #000000;
+      }
     }
     img {
-      color: #d9d9d9;
+      border: 1px solid #1f1e21;
     }
-  }
-  .meta {
-    a {
-      color: #d9d9d9;
-      &:hover {
-        color: #6d92bf;
+    blockquote {
+      color: #444;
+      cite {
+        &:before {
+          content: '— ';
+        }
+        color: #d9d9d9;
       }
     }
-  }
-  .sections {
-    a {
-      color: #d9d9d9;
-      &:hover {
-        color: #6d92bf;
+    .byline {
+      color: #777;
+    }
+    .aside {
+      background-color: #1f1e21;
+    }
+    .listing {
+      li {
+        color: #d9d9d9;
+        border-bottom: 1px solid #494949;
+      }
+    }
+    .talk-design .color {
+      div {
+        border: 1px solid #d9d9d9;
+      }
+      .white {
+        color: #d9d9d9;
       }
     }
   }
 }
-.content.dark {
-  h1, h2, h3, h4 {
-    color: #d9d9d9;
-    a {
-      color: #ffffff;
-    }
-  }
-  h3 {
-    color: #d9d9d9;
-  }
-  p {
-    code {
-      color: #d9d9d9;
-      background-color: #161616;
-      border: 1px solid #000000;
-    }
-  }
-  img {
-    border: 1px solid #1f1e21;
-  }
-  blockquote {
-    color: #444;
-    cite {
-      &:before {
-        content: '— ';
-      }
-      color: #d9d9d9;
-    }
-  }
-  .byline {
-    color: #777;
-  }
-  .aside {
-    background-color: #1f1e21;
-  }
-  .listing {
-    li {
-      color: #d9d9d9;
-      border-bottom: 1px solid #494949;
-    }
-  }
-  .talk-design .color {
-    div {
-      border: 1px solid #d9d9d9;
-    }
-    .white {
-      color: #d9d9d9;
-    }
-  }
-}
-// }
