@@ -25,10 +25,10 @@
 
   <section class="toggle">
     <label class="switch">
-      <input type="checkbox">
+      <button class="btn-toggle">
       <span class="slider round">
         <script>
-          const btn = document.querySelector(".slider-round");
+          const btn = document.querySelector(".btn-toggle");
           const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
 
           btn.addEventListener("click", function () {
@@ -40,6 +40,7 @@
           });
         </script>
       </span>
+      </button>
     </label>
   </section>
 </section>
