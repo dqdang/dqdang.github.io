@@ -22,25 +22,4 @@
       <li><a href="/">posts</a></li>
     </ul>
   </section>
-
-  <section class="toggle">
-    <label class="switch">
-      <button class="btn-toggle">
-      <span class="slider round">
-        <script>
-          const btn = document.querySelector(".btn-toggle");
-          const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
-
-          btn.addEventListener("click", function () {
-            if (prefersDarkScheme.matches) {
-              document.body.classList.toggle("light");
-            } else {
-              document.body.classList.toggle("dark");
-            }
-          });
-        </script>
-      </span>
-      </button>
-    </label>
-  </section>
 </section>
