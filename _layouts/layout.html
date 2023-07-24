@@ -34,6 +34,12 @@
 
         const isDarkMode = body.classList.contains('dark-mode');
         localStorage.setItem('darkModePreference', isDarkMode);
+        if (isDarkMode) {
+          darkModeToggle.style.backgroundImage = 'url(/images/sun.png)';
+        } 
+        else {
+          darkModeToggle.style.backgroundImage = 'url(/images/moon.png)';
+        }
       }
 
       document.addEventListener('DOMContentLoaded', function () {
