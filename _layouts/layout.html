@@ -17,13 +17,11 @@
           body.classList.add('dark-mode');
           sidebar.classList.add('dark-mode');
           content.classList.add('dark-mode');
-          darkModeToggle.style.backgroundImage = 'url(/images/moon.png)';
         }
         else if (darkModePreference === 'false') {
           body.classList.remove('dark-mode');
           sidebar.classList.remove('dark-mode');
           content.classList.remove('dark-mode');
-          darkModeToggle.style.backgroundImage = 'url(/images/sun.png)';
         }
         else {
           // If no preference is set in localStorage, check the user's system preference
@@ -43,6 +41,13 @@
         body.classList.toggle('dark-mode');
         sidebar.classList.toggle('dark-mode');
         content.classList.toggle('dark-mode');
+
+        if (body.classList.contains('dark-mode')) {
+          darkModeToggle.style.backgroundImage = 'url(/images/moon.png)';
+        }
+        else {
+          darkModeToggle.style.backgroundImage = 'url(/images/sun.png)';
+        }
 
         const isDarkMode = body.classList.contains('dark-mode');
         localStorage.setItem('darkModePreference', isDarkMode);
