@@ -339,11 +339,12 @@ body.dark-mode a {
 }
 
 .dark-mode-toggle {
-  background-image: url(/images/moon.png); /* 16px x 16px */
-  background-color: transparent; /* make the button transparent */
-  background-repeat: no-repeat;  /* make the background image appear only once */
-  background-position: 0px 0px;  /* equivalent to 'top left' */
-  cursor: pointer;        /* make the cursor like hovering over an <a> element */
-  height: 16px;           /* make this the size of your image */
-  vertical-align: middle; /* align the text vertically centered */
+  background-image: url(/images/moon.png);
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  cursor: pointer;
+  height: 21px;
+  width: 21px;
+  vertical-align: middle;
 }
