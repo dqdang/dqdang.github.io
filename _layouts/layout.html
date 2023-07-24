@@ -18,10 +18,19 @@
           sidebar.classList.add('dark-mode');
           content.classList.add('dark-mode');
         }
-        else {
+        else if (darkModePreference === 'false') {
           body.classList.remove('dark-mode');
           sidebar.classList.remove('dark-mode');
           content.classList.remove('dark-mode');
+        }
+        else {
+          // If no preference is set in localStorage, check the user's system preference
+          const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (prefersDarkMode) {
+            body.classList.add('dark-mode');
+            sidebar.classList.add('dark-mode');
+            content.classList.add('dark-mode');
+          }
         }
       }
       function toggleDarkMode() {
@@ -49,11 +58,6 @@
 
         setDarkModeFromLocalStorage();
       });
-
-      const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      if (prefersDarkMode) {
-        toggleDarkMode();
-      }
     </script>
   </body>
 </html>
