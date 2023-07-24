@@ -2,36 +2,41 @@
 <html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head><link rel="shortcut icon" href="favicon.ico" /></head>
 {% include head.html %}
-<body>
-  {% include sidebar.html %}
-  {{ content }}
-  <script>
-    function toggleDarkMode() {
-    const body = document.body;
-    const sidebar = document.querySelector('.sidebar');
-    const content = document.querySelector('.content');
-    body.classList.toggle('dark-mode');
-    sidebar.classList.toggle('dark-mode');
-    content.classList.toggle('dark-mode');
+  <body>
+    {% include sidebar.html %}
+    {{ content }}
+    <script>
+      function toggleDarkMode() {
+        const body = document.body;
+        const sidebar = document.querySelector('.sidebar');
+        const content = document.querySelector('.content');
+        body.classList.toggle('dark-mode');
+        sidebar.classList.toggle('dark-mode');
+        content.classList.toggle('dark-mode');
 
-    const darkModeToggle = document.querySelector('#darkModeToggle');
+        const isDarkMode = body.classList.contains('dark-mode');
+        localStorage.setItem('darkModePreference', isDarkMode);
 
-    if (body.classList.contains('dark-mode')) {
-      darkModeToggle.style.backgroundImage = 'url(/images/sun.png)';
-    } else {
-      darkModeToggle.style.backgroundImage = 'url(/images/moon.png)';
-    }
-  }
+        if (isDarkMode) {
+          darkModeToggle.style.backgroundImage = 'url(/images/sun.png)';
+        } else {
+          darkModeToggle.style.backgroundImage = 'url(/images/moon.png)';
+        }
+      }
 
-  document.addEventListener('DOMContentLoaded', function () {
-    const darkModeToggle = document.querySelector('#darkModeToggle');
-    darkModeToggle.addEventListener('click', toggleDarkMode);
-  });
+      document.addEventListener('DOMContentLoaded', function () {
+        const darkModeToggle = document.querySelector('#darkModeToggle');
+        darkModeToggle.addEventListener('click', toggleDarkMode);
+        const darkModePreference = localStorage.getItem('darkModePreference');
+        if (darkModePreference === 'true') {
+          toggleDarkMode();
+        }
+      });
 
-  const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  if (prefersDarkMode) {
-    toggleDarkMode();
-  }
-  </script>
-</body>
+      const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (prefersDarkMode) {
+        toggleDarkMode();
+      }
+    </script>
+  </body>
 </html>
