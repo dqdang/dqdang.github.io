@@ -6,35 +6,36 @@
   {% include sidebar.html %}
   {{ content }}
   <script>
-    const darkModeToggle = document.querySelector('#darkModeToggle');;
+    function toggleDarkMode() {
     const body = document.body;
     const sidebar = document.querySelector('.sidebar');
     const content = document.querySelector('.content');
-  
-    // Check if dark mode preference is already set
-    const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    if (prefersDarkMode) {
-      body.classList.add('dark-mode');
-      sidebar.classList.add('dark-mode');
-      content.classList.add('dark-mode');
-    }
+    body.classList.toggle('dark-mode');
+    sidebar.classList.toggle('dark-mode');
+    content.classList.toggle('dark-mode');
 
+    // Get the dark mode toggle button element
+    const darkModeToggle = document.querySelector('#darkModeToggle');
+
+    // Toggle the background image based on dark mode state
     if (body.classList.contains('dark-mode')) {
-      darkModeToggle.style.backgroundImage = 'url(/images/moon.png)';
+      darkModeToggle.style.backgroundImage = 'url(/images/moon.png)'; // Replace with the moon image path
+    } else {
+      darkModeToggle.style.backgroundImage = 'url(/images/sun.png)'; // Replace with the sun image path
     }
-    else {
-      darkModeToggle.style.backgroundImage = 'url(/images/sun.png)';
-    }
-  
-    // Function to toggle dark mode
-    function toggleDarkMode() {
-      body.classList.toggle('dark-mode');
-      sidebar.classList.toggle('dark-mode');
-      content.classList.toggle('dark-mode');
-    }
-  
-    // Event listener for the toggle switch
+  }
+
+  // Event listener for the toggle switch
+  document.addEventListener('DOMContentLoaded', function () {
+    const darkModeToggle = document.querySelector('#darkModeToggle');
     darkModeToggle.addEventListener('click', toggleDarkMode);
+  });
+
+  // Check if dark mode preference is already set
+  const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  if (prefersDarkMode) {
+    toggleDarkMode();
+  }
   </script>
 </body>
 </html>
