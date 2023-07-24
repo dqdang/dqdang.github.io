@@ -52,17 +52,11 @@
         const isDarkMode = body.classList.contains('dark-mode');
         localStorage.setItem('darkModePreference', isDarkMode);
       }
-      function preloadImages(urls) {
-        urls.forEach((url) => {
-          const img = new Image();
-          img.src = url;
-        });
-      }
 
       document.addEventListener('DOMContentLoaded', function () {
         const darkModeToggle = document.querySelector('#darkModeToggle');
         darkModeToggle.addEventListener('click', toggleDarkMode);
-        preloadImages(['/images/sun.png', '/images/moon.png']);
+
         setDarkModeFromLocalStorage();
       });
     </script>
