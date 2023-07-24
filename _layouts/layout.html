@@ -6,6 +6,24 @@
     {% include sidebar.html %}
     {{ content }}
     <script>
+      function setDarkModeFromLocalStorage() {
+        const body = document.body;
+        const sidebar = document.querySelector('.sidebar');
+        const content = document.querySelector('.content');
+
+        const darkModePreference = localStorage.getItem('darkModePreference');
+
+        if (darkModePreference === 'true') {
+          body.classList.add('dark-mode');
+          sidebar.classList.add('dark-mode');
+          content.classList.add('dark-mode');
+        }
+        else {
+          body.classList.remove('dark-mode');
+          sidebar.classList.remove('dark-mode');
+          content.classList.remove('dark-mode');
+        }
+      }
       function toggleDarkMode() {
         const body = document.body;
         const sidebar = document.querySelector('.sidebar');
@@ -16,21 +34,13 @@
 
         const isDarkMode = body.classList.contains('dark-mode');
         localStorage.setItem('darkModePreference', isDarkMode);
-
-        if (isDarkMode) {
-          darkModeToggle.style.backgroundImage = 'url(/images/sun.png)';
-        } else {
-          darkModeToggle.style.backgroundImage = 'url(/images/moon.png)';
-        }
       }
 
       document.addEventListener('DOMContentLoaded', function () {
         const darkModeToggle = document.querySelector('#darkModeToggle');
         darkModeToggle.addEventListener('click', toggleDarkMode);
-        const darkModePreference = localStorage.getItem('darkModePreference');
-        if (darkModePreference === 'true') {
-          toggleDarkMode();
-        }
+
+        setDarkModeFromLocalStorage();
       });
 
       const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
