@@ -10,24 +10,35 @@
     const body = document.body;
     const sidebar = document.querySelector('.sidebar');
     const content = document.querySelector('.content');
-  
+
     // Check if dark mode preference is already set
     const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
     if (prefersDarkMode) {
       body.classList.add('dark-mode');
       sidebar.classList.add('dark-mode');
       content.classList.add('dark-mode');
+      darkModeToggle.querySelector('input').checked = true;
     }
-  
+
     // Function to toggle dark mode
     function toggleDarkMode() {
       body.classList.toggle('dark-mode');
       sidebar.classList.toggle('dark-mode');
       content.classList.toggle('dark-mode');
+
+      // Save the user's preference in localStorage
+      const isDarkMode = body.classList.contains('dark-mode');
+      localStorage.setItem('darkMode', isDarkMode);
     }
-  
+
     // Event listener for the toggle switch
     darkModeToggle.addEventListener('click', toggleDarkMode);
+
+    // Check the user's preference from localStorage on page load
+    const savedDarkMode = localStorage.getItem('darkMode');
+    if (savedDarkMode === 'true') {
+      toggleDarkMode();
+    }
   </script>
 </body>
 </html>
