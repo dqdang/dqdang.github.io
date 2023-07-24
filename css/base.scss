@@ -337,20 +337,3 @@ body.dark-mode a {
     }
   }
 }
-
-.dark-mode-toggle {
-  display: inline-block;
-  position: relative;
-  width: 34px;
-  height: 15px;
-  cursor: pointer;
-  background-color: #ddd;
-  border-radius: 15px;
-  padding: 2px;
-}
-
-.dark-mode-toggle input {
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
