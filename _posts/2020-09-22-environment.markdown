@@ -98,7 +98,7 @@ Here's a script that takes the python directories in the git folder and installs
 
 [coffee][coffee]
 
-[discord]: https://discord.com/channels/@me/dqd#0143
+[discord]: https://discordapp.com/users/115320635823095812
 [dqd]: https://github.com/dqdang
 [PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
 [coffee]: https://www.buymeacoffee.com/dqdang
