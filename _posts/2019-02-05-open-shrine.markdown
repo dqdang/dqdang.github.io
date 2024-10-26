@@ -13,7 +13,7 @@ and I came to the conclusion that I also wanted to explore such a route. Will up
 EDIT:
 Update on this project: I added a grayscale camera mirror.
 
-Take a look at the project if you want:
+Take a look at the project:
 [open-shrine][open-shrine]
 
 ---

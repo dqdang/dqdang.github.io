@@ -12,7 +12,7 @@ Yeah... I don't have a coffee machine on the network, I don't have a co-worker n
 
 Built using Python, Discord's API, and Heroku.
 
-Take a look at the project if you want:
+Take a look at the project:
 [joyjenerator][joyjenerator]
 
 ---

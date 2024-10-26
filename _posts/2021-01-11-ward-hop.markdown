@@ -10,7 +10,7 @@ A key component of any League of Legends game is the drafting phase. This is whe
 
 It features shared sessions with updatable champion data with an autocomplete field built on a Django framework. There can be a future for this project like adding accounts to save certain drafts and/or the ability to analyze team synergy and win conditions.
 
-Take a look at the project if you want:
+Take a look at the project:
 [ward hop][ward hop]
 
 ---

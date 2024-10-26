@@ -15,7 +15,7 @@ Future alternatives include uploading to Streamable (API currently doesn't allow
 **UPDATE 03/25/2021: Alas, Google has had enough. It is now against Youtube Community Guidelines to post videos that are considered spam, and since the Twitch clips are about 30s max, they land under that category. There may be a future in Streamable, but Youtube is probably not the move anymore.<br/>
 [Reference link to guidelines.][spam]**
 
-Take a look at the project if you want:
+Take a look at the project:
 [digested clips][digested clips]
 
 ---

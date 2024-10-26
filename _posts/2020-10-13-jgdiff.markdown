@@ -14,7 +14,7 @@ Well, that was a cool idea until it wasn't. Riot's API spaces out the frames cap
 
 Even though we failed here, we ended 3rd place in the tournament overall, which exceeded expectations.
 
-Take a look at the project if you want:
+Take a look at the project:
 [jgdiff][jgdiff]
 
 ---

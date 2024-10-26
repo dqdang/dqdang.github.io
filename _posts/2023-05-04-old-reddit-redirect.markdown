@@ -9,7 +9,7 @@ category: posts
 Manifest V3 fork of the old reddit redirect extension. Published on the Microsoft Edge browser store.
 
 
-Take a look at the project if you want:
+Take a look at the project:
 [old-reddit-redirect][old-reddit-redirect]
 
 Install the extension on your Edge browser:

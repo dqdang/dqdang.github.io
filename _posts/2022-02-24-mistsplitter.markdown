@@ -11,7 +11,7 @@ category: posts
 <model-viewer alt="Mistsplitter. It is said that it can call upon the power of lightning itself to slice through the mountain mist and night fog." src="/images/Mistsplitter.glb" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" auto-rotate auto-rotate-delay="1" rotation-per-second="30deg" interaction-prompt="none" camera-controls></model-viewer>
 
 
-Take a look at the project if you want:
+Take a look at the project:
 [mistsplitter][mistsplitter]
 
 ---

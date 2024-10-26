@@ -20,7 +20,7 @@ Fast forward and it gets to another road block. And another. And another... Repe
 
 Frustrating project, but a rewarding one with a valuable lesson.
 
-Take a look at the project if you want:
+Take a look at the project:
 [xv6-docker][xv6-docker]
 
 ---

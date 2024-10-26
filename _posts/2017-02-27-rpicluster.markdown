@@ -26,7 +26,7 @@ We used a stamping mechanism in the images unique with their username and passwo
 
 The images turned out small (< 5GB total!), efficient, and usable, so that was a pleasant experience . One day I hope to return to this project.
 
-Take a look at the project if you want:
+Take a look at the project:
 [rpicluster][rpicluster]
 
 ---

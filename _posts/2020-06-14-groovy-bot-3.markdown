@@ -10,7 +10,7 @@ This little bot is an exercise in modern tech using Discord's API inspired by my
 
 Built using Python, Discord's API, Heroku, and mischievousness.
 
-Take a look at the project if you want:
+Take a look at the project:
 [groovy bot 3][groovy bot 3]
 
 ---

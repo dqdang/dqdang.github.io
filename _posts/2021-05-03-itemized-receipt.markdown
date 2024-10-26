@@ -10,7 +10,7 @@ I needed an easy way to tell if an item fits my build.
 
 Features a local database builder on a Tkinter app.
 
-Take a look at the project if you want:
+Take a look at the project:
 [itemized receipt][itemized receipt]
 
 ---

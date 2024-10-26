@@ -14,7 +14,7 @@ The messenger API would time out more often than we thought. Persistent menus al
 
 There are many future improvements we want to make, including shifting our messenger API to [fbchat](https://github.com/carpedm20/fbchat), a more updated version of [fbmq](https://github.com/conbus/fbmq). We were also thinking about shifting towards more of a hands on server instead of Heroku; something like DigitalOcean or Dreamhost. We'll see how it goes...
 
-Take a look at the project if you want:
+Take a look at the project:
 [dropbot][dropbot]
 
 ---

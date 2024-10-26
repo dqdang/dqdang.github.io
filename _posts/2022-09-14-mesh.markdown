@@ -6,10 +6,10 @@ category: posts
 
 *90s themed cryptocurrency ticker*
 
-Native SwiftUI iOS 15 and 16 app built for iPhone.
+Native SwiftUI iOS app built for iPhone.
 
 
-Take a look at the project if you want:
+Take a look at the project:
 [mesh][mesh]
 
 ---
