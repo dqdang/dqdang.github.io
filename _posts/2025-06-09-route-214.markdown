@@ -9,7 +9,7 @@ category: posts
 Just a little tool to look up some Pokemon pack prices.
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<model-viewer alt="Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally." src="/images/charizard.glb" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" interaction-prompt="none" camera-controls></model-viewer>
+<model-viewer alt="Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally." src="/images/charizard.glb" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" camera-orbit="0deg 0.0000573deg 2.139m" field-of-view="30deg" interaction-prompt="none" camera-controls></model-viewer>
 
 
 Take a look at the project:
