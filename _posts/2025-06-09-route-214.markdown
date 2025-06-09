@@ -1,0 +1,32 @@
+---
+layout: post
+title: route 214
+category: posts
+---
+
+*Pack price lookup tool*
+
+Just a little tool to look up some Pokemon pack prices.
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<model-viewer alt="Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally." src="/images/charizard.glb" ar ar-modes="webxr scene-viewer quick-look" shadow-intensity="1" auto-rotate auto-rotate-delay="1" rotation-per-second="30deg" interaction-prompt="none" camera-controls></model-viewer>
+
+
+Take a look at the project:
+[route-214][route-214]
+
+---
+
+[discord][discord]
+
+[github][dqd]
+
+[PGP][PGP]
+
+[coffee][coffee]
+
+[discord]: https://discordapp.com/users/115320635823095812
+[dqd]: https://github.com/dqdang
+[PGP]: https://raw.githubusercontent.com/dqdang/dqdang.github.io/master/derek-dang.asc
+[coffee]: https://www.buymeacoffee.com/dqdang
+[route-214]: https://github.com/dqdang/route-214
