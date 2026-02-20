@@ -7,8 +7,10 @@ category: posts
 *90s themed cryptocurrency ticker*
 
 Native SwiftUI iOS app built for iPhone.
+2023 vs. 2026 below.
 
 <img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_4440.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_5828.png" width="40%" height="40%"/>
 <img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_4467.png" width="40%" height="40%"/>
 <img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_4468.png" width="40%" height="40%"/>
 
