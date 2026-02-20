@@ -26,6 +26,10 @@ We used a stamping mechanism in the images unique with their username and passwo
 
 The images turned out small (< 5GB total!), efficient, and usable, so that was a pleasant experience . One day I hope to return to this project.
 
+[![](https://img.youtube.com/vi/ZLoIgecDATA/maxresdefault.jpg)](https://www.youtube.com/shorts/ZLoIgecDATA)
+[![](https://img.youtube.com/vi/xAMnrFUa_cc/maxresdefault.jpg)](https://www.youtube.com/shorts/xAMnrFUa_cc)
+
+
 Take a look at the project:
 [rpicluster][rpicluster]
 
