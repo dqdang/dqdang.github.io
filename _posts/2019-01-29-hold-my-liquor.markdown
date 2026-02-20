@@ -10,6 +10,9 @@ How many times have you gotten upset at not being able to find food while chatti
 
 Having a bit of experience with the HPP stack now (Heroku, Python, PostgresSQL), I decided to add in another API in conjunction with Facebook's Messenger API: Yelp. It's usable for now, although Heroku's restriction with Dyno hours limits the bots' usage.
 
+[![](https://img.youtube.com/vi/VpRbxsrImoU/maxresdefault.jpg)](https://youtube.com/shorts/VpRbxsrImoU)
+
+
 Take a look at the project:
 [hold-my-liquor][hold-my-liquor]
 
