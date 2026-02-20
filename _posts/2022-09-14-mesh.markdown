@@ -12,7 +12,9 @@ Native SwiftUI iOS app built for iPhone.
 <img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_4440.png" width="40%" height="40%"/>
 <img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_5828.png" width="40%" height="40%"/>
 <img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_4467.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_5829.png" width="40%" height="40%"/>
 <img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_4468.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/IMG_5830.png" width="40%" height="40%"/>
 
 
 Take a look at the project:
