@@ -8,7 +8,7 @@ category: posts
 
 Notification bot to link the latest videos from Kenji the Shiba. Who doesn't want cute shiba videos? Scrapes channel video tab with BeautifulSoup and parses for the newest video id.
 
-<img width="1462" height="534" src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/Screenshot%202026-02-20%20010543.png" />
+<img src="https://raw.githubusercontent.com/dqdang/dqdang.github.io/refs/heads/master/images/Screenshot%202026-02-20%20010543.png" width="75%" height="75%" />
 
 
 Take a look at the project:
