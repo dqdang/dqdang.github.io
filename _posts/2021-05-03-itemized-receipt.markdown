@@ -4,11 +4,11 @@ title: itemized receipt
 category: posts
 ---
 
-*Icy veins Diablo 3 gear scraper*
+*Icy Veins Diablo 3 gear scraper and classifier*
 
-I needed an easy way to tell if an item fits my build.
+I needed an easy way to tell if an item fits a build.
 
-Features a local database builder on a Tkinter app.
+Features a local database on a Tkinter app.
 
 Take a look at the project:
 [itemized receipt][itemized receipt]
